@@ -79,7 +79,7 @@
     <button class="w-100 btn btn-lg btn-primary" type="submit">Sign up</button>
     <p class="mt-5 mb-3 text-muted"></p>
     <a class="mt-5 mb-3 text-muted" href="login.jsp" style="font-size: 20px; font-weight: bold; text-decoration: none;"><span style="border-bottom: 12px solid #dcf1fb; padding: 0 0 0 0.2em;">Sign in</span></a>
-    <p class="mt-5 mb-3 text-muted">&copy; 2017-2021</p>
+    <p class="mt-5 mb-3 text-muted">&copy; 2018-2021</p>
   </form>
 </main>
 
